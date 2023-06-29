@@ -11,7 +11,7 @@ El tercer notebook llamado "Programa3.ipynb" resuelve el problema de aplicación
 
 El notebook llamado "Programa4_1.ipynb" fue escrito con la ayuda del M.C. Isaias Manuel Ramirez Bañales. Este simula muestras de la TMVN posterior de forma eficiente.
 
-El notebook nombrado "Programa4_2.ipynb" carga las muestras generadas con "Programa4_1.ipynb" y despliega una gráfica para determinar el quemado y el IAT como referencia para determinar el lag. Posteriormente se obtiene una muestra efectiva que se utiliza para calcular los Coeficientes de variación de cada parámetro.
+El notebook nombrado "Programa4_2.ipynb" carga las muestras generadas con "Programa4_1.ipynb" y despliega una gráfica para determinar el quemado y el IAT como referencia para determinar el lag. Posteriormente se obtiene una muestra efectiva que se utiliza para calcular los coeficientes de variación de cada parámetro.
 
 Los notebooks "Programa5_1.ipynb" y "Programa5_2.ipynb" fueron escritos con el propósito de explorar los valores de alpha y discretización respectivamente, involucrados en la resolución de la estrategia semianalítica de Nocquet (2018) utilizando QMC para el problema de aplicación.
 
